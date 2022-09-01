@@ -1,5 +1,5 @@
 
-# git clear https://github.com/Saw4x/fb_
+# git clone https://github.com/Saw4x/fb_
 # cd fb_
 # python SAWX.py
 # insta 127.0.2
